@@ -8,6 +8,8 @@ badges:
 
 ### Links
 
+{{ eva_download_button("titan") }}
+
 {{ eva_link("titan") }}
 
 {{ onshape_link("titan") }}
