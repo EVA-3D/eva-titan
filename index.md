@@ -18,7 +18,7 @@ badges:
 
 === "E3D V6"
 
-{{ bom("drives/titan/bom/e3d.csv", 4) }}
+{{ bom("drives/titan/bom/v6.csv", 4) }}
 
 === "Mosquito"
 
