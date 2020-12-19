@@ -1,42 +1,34 @@
-Item No.,Quantity,Name,Material
+Item,Quantity,Name,Material
 1,1,bottom_mgn12_short_duct,PETG
-2,18,"M3  Hex nut ",- None -
-3,2,DIN 912 M3 12 mm,- None -
-4,2,DIN 912 M3 35 mm,- None -
+2,29,"M3  Hex nut ",- None -
+3,5,DIN 912 M3 12 mm,- None -
+4,4,DIN 912 M3 35 mm,- None -
 5,1,Duct v2.1 Straight,PETG
 6,1,back_corexy,PETG
 7,1,tension_slider_9mm_belt_M5,PETG
 8,1,tension_slider_9mm_belt_M5_mirror,PETG
-9,3,DIN 912 M3 25 mm,- None -
+9,1,DIN 912 M3 25 mm,- None -
 10,1,5015 fan,- None -
 11,2,DIN 912 M5 45 mm,- None -
 12,2,M5  Hex nut Nyloc,- None -
-13,1,top_endstop_plug_mgn12,PETG
-14,1,top_titan_mgn12,PETG
-15,5,"M3  Hex nut ",- None -
-16,1,DIN 912 M3 8 mm,- None -
-17,2,DIN 912 M3 35 mm,- None -
-18,4,DIN 912 M3 10 mm,- None -
-19,1,Base,- None -
-20,2,9x5x3mm bearing,- None -
-21,1,hobbed wheel,- None -
-22,1,filament gear,- None -
-23,1,motor gear,- None -
-24,1,cover,- None -
-25,1,m3x8,- None -
-26,1,M3 nut,- None -
-27,1,idler spring,- None -
-28,1,tensioner,- None -
-29,1,idler bearing pin,- None -
-30,1,idler bearing,- None -
-31,1,guide tube,- None -
-32,1,press fit,PETG
-33,2,face_belt_grabber,PETG
-34,2,DIN 912 M2.5 12 mm,- None -
-35,4,DIN 912 M3 8 mm,- None -
-36,1,mosquito_25mm_fan,PETG
-37,1,mosquito_face,PETG
-38,1,25mm fan,- None -
-39,2,DIN 912 M3 10 mm,- None -
-40,1,mosquito_shroud,PETG
-41,1,PTFE 57mm,- None -
+13,1,v6_face,PETG
+14,2,face_belt_grabber,PETG
+15,1,V6-175-SINK,- None -
+16,1,V6-175-BREAK,- None -
+17,1,V6-BLOCK-CARTRIDGE,- None -
+18,1,V6-NOZZLE-ALL,- None -
+19,1,SOCK,- None -
+20,5,DIN 912 M3 8 mm,- None -
+21,1,4010 FAN,- None -
+22,1,4040_fan_face,PETG
+23,6,DIN 912 M3 20 mm,- None -
+24,8,DIN 912 M3 10 mm,- None -
+25,1,top_endstop_plug_mgn12,PETG
+26,1,top_titan_mgn12,PETG
+27,1,v6_shroud,PETG
+28,1,press fit,PETG
+29,1,PTFE 73.4mm,- None -
+30,1,E3D Titan,- None -
+31,1,SSX_tensioner (thing: 2426505),PETG
+32,1,cable_holder,PETG
+33,1,unversal_cable_mount,PETG
