@@ -7,28 +7,29 @@ Item,Quantity,Name,Material
 6,1,back_corexy,PETG
 7,1,tension_slider_9mm_belt_M5,PETG
 8,1,tension_slider_9mm_belt_M5_mirror,PETG
-9,1,DIN 912 M3 25 mm,Hardened Alloy Steel
+9,3,DIN 912 M3 25 mm,Hardened Alloy Steel
 10,1,5015 fan,- None -
 11,2,DIN 912 M5 45 mm,Hardened Alloy Steel
 12,2,M5  Hex nut Nyloc,Hardened Alloy Steel
-13,1,v6_face,PETG
-14,2,face_belt_grabber,PETG
-15,1,V6-175-SINK,- None -
-16,1,V6-175-BREAK,- None -
-17,1,V6-BLOCK-CARTRIDGE,- None -
-18,1,V6-NOZZLE-ALL,- None -
-19,1,SOCK,- None -
-20,5,DIN 912 M3 8 mm,Hardened Alloy Steel
-21,1,4010 FAN,- None -
-22,1,4040_fan_face,PETG
-23,6,DIN 912 M3 20 mm,Hardened Alloy Steel
-24,8,DIN 912 M3 10 mm,Hardened Alloy Steel
-25,1,top_endstop_plug_mgn12,PETG
-26,1,top_titan_mgn12,PETG
-27,1,v6_shroud,PETG
-28,1,press fit,PETG
-29,1,PTFE 73.4mm,- None -
-30,1,E3D Titan,- None -
-31,1,SSX_tensioner_thing_2426505,PETG
-32,1,cable_holder,PETG
-33,1,unversal_cable_mount,PETG
+13,1,top_endstop_plug_mgn12,PETG
+14,1,top_titan_mgn12,PETG
+15,5,DIN 912 M3 8 mm,Hardened Alloy Steel
+16,8,DIN 912 M3 10 mm,Hardened Alloy Steel
+17,1,press fit,PETG
+18,1,PTFE 73.4mm,- None -
+19,1,E3D Titan,- None -
+20,1,SSX_tensioner_thing_2426505,PETG
+21,1,cable_holder,PETG
+22,1,unversal_cable_mount,PETG
+23,1,V6-175-SINK,- None -
+24,1,V6-175-BREAK,- None -
+25,1,V6-BLOCK-CARTRIDGE,- None -
+26,1,V6-NOZZLE-ALL,- None -
+27,1,SOCK,- None -
+28,1,4010 FAN,- None -
+29,4,DIN 912 M3 20 mm,Hardened Alloy Steel
+30,1,universal_face,PETG
+31,2,face_belt_grabber,PETG
+32,1,v6_face,PETG
+33,1,v6_face_clamp,PETG
+34,1,shroud,PETG

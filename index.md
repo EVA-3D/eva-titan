@@ -34,3 +34,7 @@ There is a PTFE tube going from the Titan to the hotend so it's not as "direct" 
 === "Mosquito"
 
 {{ bom("drives/titan/bom/mosquito.csv", 4) }}
+
+=== "Dragon"
+
+{{ bom("drives/titan/bom/dragon.csv", 4) }}
