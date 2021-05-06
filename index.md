@@ -66,8 +66,3 @@ There is a PTFE tube going from the Titan to the hotend so it's not as "direct" 
 
 {{ download_button }}
 {{ cad_link }}
-
-{{ repo_url }}
-
-{{ cad_url }}
-
